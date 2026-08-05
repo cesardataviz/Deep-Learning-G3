@@ -15,10 +15,6 @@ Profesor: Javier Zárate
 
 </div>
 
-> ⚠️ **Antes de publicar este repo:** reemplaza `TU-USUARIO` en el badge "Open in Colab" de arriba por
-> tu usuario real de GitHub, y sube las imágenes de `assets_para_github.zip` a una carpeta `assets/` en
-> la raíz del repo. Sin esos dos pasos, el botón de Colab y las imágenes de este README no van a funcionar.
-> Borra este aviso una vez que lo hayas hecho.
 
 ## 📑 Tabla de contenidos
 
