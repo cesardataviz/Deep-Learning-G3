@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Clasificación de Severidad de Daños Vehiculares">
+  <img src="assets_para_github_2/banner.png" width="100%" alt="Clasificación de Severidad de Daños Vehiculares">
 </div>
 
 <div align="center">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU-USUARIO/proyecto-final-dl-car-damage/blob/main/notebook/Proyecto_Final_DL_Car_Damage_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets_para_github_2/colab-badge.svg)](https://colab.research.google.com/github/TU-USUARIO/proyecto-final-dl-car-damage/blob/main/notebook/Proyecto_Final_DL_Car_Damage_Colab.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)
@@ -70,7 +70,7 @@ Todas las fases están en un solo notebook: [`notebook/Proyecto_Final_DL_Car_Dam
 ## 📊 Los datos
 
 <p align="center">
-  <img src="assets/distribucion_clases_real.png" width="420" alt="Distribución de clases del dataset">
+  <img src="assets_para_github_2/distribucion_clases_real.png" width="420" alt="Distribución de clases del dataset">
 </p>
 
 - **1,383** imágenes de entrenamiento + **248** de validación/test (124 c/u).
@@ -88,7 +88,7 @@ desempeño en producción.
 ## 🏗️ Arquitectura
 
 <p align="center">
-  <img src="assets/arch_cnn_scratch.png" width="800" alt="Arquitectura del CNN desde cero">
+  <img src="assets_para_github_2/arch_cnn_scratch.png" width="800" alt="Arquitectura del CNN desde cero">
 </p>
 
 <details>
@@ -112,8 +112,8 @@ descongela `layer4` → se descongela también `layer3`. Da más estabilidad que
 ## 📈 Resultados principales
 
 <p align="center">
-  <img src="assets/comparacion_resultados_real.png" width="420" alt="Comparación de accuracy y Kappa">
-  <img src="assets/confusion_matrices_real.png" width="420" alt="Matrices de confusión">
+  <img src="assets_para_github_2/comparacion_resultados_real.png" width="420" alt="Comparación de accuracy y Kappa">
+  <img src="assets_para_github_2/confusion_matrices_real.png" width="420" alt="Matrices de confusión">
 </p>
 
 | Métrica | CNN desde cero | ResNet18 (TL) |
@@ -128,7 +128,7 @@ descongela `layer4` → se descongela también `layer3`. Da más estabilidad que
 ## 🔥 Explicabilidad (Grad-CAM)
 
 <p align="center">
-  <img src="assets/gradcam_concepto.png" width="600" alt="Esquema conceptual de Grad-CAM">
+  <img src="assets_para_github_2/gradcam_concepto.png" width="600" alt="Esquema conceptual de Grad-CAM">
 </p>
 
 Grad-CAM se implementó **desde cero** (sin librerías de alto nivel), siguiendo Selvaraju et al. (2020),
@@ -174,7 +174,7 @@ un flujo real de triage de siniestros.
 ```
 proyecto-final-dl-car-damage/
 ├── README.md
-├── assets/                 <- imágenes usadas en este README
+├── assets_para_github_2/                 <- imágenes usadas en este README
 ├── notebook/
 │   └── Proyecto_Final_DL_Car_Damage_Colab.ipynb
 ├── informe/
