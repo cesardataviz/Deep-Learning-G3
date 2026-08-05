@@ -4,8 +4,7 @@
 
 <div align="center">
 
-[![Open In Colab]([https://colab.research.google.com/assets_para_github_2/colab-badge.svg)](https://colab.research.google.com/github/TU-USUARIO/proyecto-final-dl-car-damage/blob/main/notebook/Proyecto_Final_DL_Car_Damage_Colab.ipynb](https://drive.google.com/file/d/1QHvdfQP4ntNKEKi0crqqdxFJWDoL4GkH/view?usp=sharing))
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cesardataviz/Deep-Learning-G3/blob/main/notebook/Proyecto_Final_DL_Car_Damage_Colab.ipynb)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)
 ![Accuracy](https://img.shields.io/badge/Best%20Accuracy-66.1%25-2FB88A)
