@@ -183,9 +183,10 @@ proyecto-final-dl-car-damage/
 | Integrante | Rol |
 |---|---|
 | Cesar Augusto Romero Aranda | — |
-| Katiuska [Apellido] | — |
-| Germán [Apellido] | — |
-| Esteban [Apellido] | — |
+| Sara Katiuska Diaz Mendo | — |
+| German Rodrigo Guerra Wiegman | — |
+| Esteban Tocto Cano | — |
+| Emmil Parras Salinas | — |
 
 ---
 
